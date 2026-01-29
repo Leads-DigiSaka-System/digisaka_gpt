@@ -4,7 +4,7 @@
 
 DigiSaka GPT is an intelligent interface layer that bridges natural language interactions with DigiSaka WebGIS analytical tools. It uses a **fine-tuned language model** to understand user requests, generate appropriate API payloads, and convert technical responses into human-friendly language.
 
-Users can upload images and request analyses in plain language (e.g., "count trees in this image"), and the fine-tuned model automatically determines which WebGIS tools to run and translates the results into readable responses.
+Users can upload images and request analyses in plain language (e.g., "what is the avoided methane emission of this farm?" "count trees in this image"), and the fine-tuned model automatically determines which WebGIS tools to run and translates the results into readable responses.
 
 **Current Status**: Prototype phase with support for:
 - Tree Detection
