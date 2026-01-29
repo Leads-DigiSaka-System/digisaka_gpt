@@ -272,10 +272,3 @@ TIMEOUT_SECONDS=300
 - `tree_detection` - Count and locate individual trees in imagery
 - `crown_segmentation` - Detect trees and segment their crown boundaries
 
-### Future Tools (Planned)
-- `building_detection` - Identify structures
-- `land_cover_classification` - Classify terrain types
-- `change_detection` - Compare temporal changes
-- `vegetation_index` - Calculate NDVI, EVI, etc.
-- `water_body_detection` - Identify water features
-- `road_extraction` - Extract road networks
