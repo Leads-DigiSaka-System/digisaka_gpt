@@ -257,17 +257,6 @@ The tree detection tool successfully detected 245 trees in the uploaded image.
 The crown segmentation tool successfully detected 187 trees and segmented 184 crowns in the uploaded image.
 ```
 
-## Configuration
-
-### Environment Variables
-```bash
-DIGISAKA_API_KEY=your_api_key
-DIGISAKA_API_ENDPOINT=https://api.digisaka.com/v1
-FINETUNED_MODEL_PATH=./models/digisaka-gpt-v1
-MAX_IMAGE_SIZE=10485760  # 10MB
-TIMEOUT_SECONDS=300
-```
-
 ### Supported WebGIS Tools (Current Prototype)
 - `tree_detection` - Count and locate individual trees in imagery
 - `crown_segmentation` - Detect trees and segment their crown boundaries
